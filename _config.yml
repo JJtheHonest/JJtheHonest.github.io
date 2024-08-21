@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Jiajie Yin's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiajie Yin"
 description              : &description "personal description"
 url                      : https://jjthehonest.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
