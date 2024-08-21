@@ -13,8 +13,49 @@ Jiajie Yin is an undergraduate student at Beijing Normal University majoring in 
 
 **I am looking for opportunities to pursue a master's degree in these areas and to collaborate on research projects. Please contact me if you are interested in my profile!**
 
-A data-driven personal website
+Education and Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Zhengzhou Foreign Language School** （Sep 2018 - Jun 2021）
+- **Beijing Normal University**  (Sep 2021 - Present) 
+  - B.Sc. in Data Science and Big Data Technology  
+  - Relevant Coursework: Mathematics Analysis, Probability and Statistics, Database Systems, Deep Learning, Data Mining
+
+- **RA in Institute of AI and Future Networks** , Beijing Normal University (Sep 2023 – Present)
+  - Conducted research on deep reinforcement learning and its applications in areas such as edge computing and agents, under the guidance of Prof. [Zhiqing Tang](https://www.zhiqingtang.com/), Prof. [JianXiong Guo](https://staff.uic.edu.cn/jianxiongguo/cn) and Prof. [Weijia Jia](https://ai.bnu.edu.cn/xygk/szdw/zgj/1326a6d1a5b14556a2b3bbb0faa6c46d.htm).
+
+Skills
+======
+- **Programming Languages**: Proficient in Python for algorithm design, data analysis, and simulation modeling. Experienced in Java for object-oriented programming, database interfacing, and network programming. Knowledgeable in C/C++ for algorithms and data structures.
+- **Deep Learning Frameworks**: Extensive experience with PyTorch; familiar with reading and reproducing code in TensorFlow.
+- **Software Tools**: Competent with Matlab and R; experience using STATA and SPSS for data analysis.
+
+Publicacion
+======
 
 
+Projects
+======
+- **The Study on Mechanisms and Patterns of Two Opposing Swarm Movements *(Physics/Complex Systems, 2022–2023)*** \
+  ***(National Class Project)** (Undergraduate Training Programs for Innovation and Entrepreneurship)*
+
+  This research project was supervised by Dr. [Guiyuan Shi](https://fas.bnu.edu.cn/jyjg/xsgk/xtkxx1/xsszxtkx/xtkxzj/b90f27925dd8422a99895554a88884f2.htm) from the International Academic Center of Complex Systems, Advanced Institute of Natural Sciences, Beijing Normal University.\
+  As a core member, I led the key aspects of the project, including:
+  - Implemented classical swarm models like Boids, Vicsek, and Couzin using Python.
+  - Extended models to 3D space and introduced opposing swarms, designing interaction mechanisms to study their dynamic behaviors.
+  - Developed an interactive simulation platform, CouzinSim, featuring customizable parameters and clear visualizations. The tool serves both research and educational purposes and is available open-source on [GitHub](https://github.com/QZGao/couzin-sim).
+
+- **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks *(Participate as an undergraduate RA, 2023–Present)*** \
+  ***(National Class Project)** (Supported by the Young Scientists Fund of the National Natural Science Foundation of China)*
+
+  This research project was supervised by Prof. [Zhiqing Tang](https://www.zhiqingtang.com/).\
+  We introduced a composite user model to enhance system reliability by addressing the challenges of high mobility and heterogeneity in edge computing scenarios. A novel reinforcement learning approach is proposed for optimizing UAV task scheduling and resource allocation. We conducted extensive simulations to validate the proposed algorithm’s superior performance in large-scale UAV-MEC scenarios. As the first author, I contributed to a paper (under review) and a patent application:
+  - **Publication**: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF]]()*
+  - **Patent**: *Method and Device for UAV-Assisted Offloading Strategy (Patent Application No. 2024109978530)*
+
+Honors
+======
+- **Second Prize of “Jingshi” Undergraduate Scholarship**, Beijing Normal University
+- **Honourable Mention**, the Mathematical Contest in Modeling (MCM)
+- **Second Prize** *(Guangdong Division)*, the 15th Lanqiao Cup (Python)
+- **First Prize** *(Ranked #1)*, Beijing Normal University “Jingshi Cup” Science and Technology Competition
+- **Outstanding Officer of 2021 - 2022**, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province
