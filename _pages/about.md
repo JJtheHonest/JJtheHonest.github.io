@@ -11,7 +11,7 @@ Jiajie Yin is an undergraduate student at Beijing Normal University majoring in 
 
 *My research interests include **multi-agent systems**, **deep learning**, **reinforcement learning**, and **edge computing**, with a focus on applying AI to swarm intelligence and IoT.*
 
-**I am looking for opportunities to pursue a master's degree in these areas and to collaborate on research projects. Please contact me if you are interested in my profile!**
+**<font color=Blue>I am looking for opportunities to pursue a master's degree in these areas and to collaborate on research projects. Please contact me if you are interested in my profile!</font>**
 
 Education and Experience
 ======
