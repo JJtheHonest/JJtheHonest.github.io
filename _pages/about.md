@@ -33,7 +33,7 @@ Publicacion
 ======
 1. **QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing** \
 **Jiajie Yin**, Zhiqing Tang\*, Jiong Lou, Jianxiong Guo, Hui Cai, Xiaoming Wu, Tian Wang, Weijia Jia \
-*IEEE Internet of Things Journal (IoT-J)*, 2024, Under Review. (JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]
+*IEEE Internet of Things Journal (IoT-J)*, 2024, Early Access. (JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]
 2. **Data-Driven MMA Outcome Prediction Enhanced by Fighter Styles: A Machine Learning Approach** \
 **Jiajie Yin\*** \
 *2024 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)*, Accepted. (EI) [[PDF](https://jjthehonest.github.io/files/MLISE2024.pdf)]
@@ -53,7 +53,7 @@ Projects
   ***(National Class Project)** (Supported by the Young Scientists Fund of the National Natural Science Foundation of China)*
 
   This research project was supervised by Prof. [Zhiqing Tang](https://www.zhiqingtang.com/).\
-  We introduced a composite user model to enhance system reliability by addressing the challenges of high mobility and heterogeneity in edge computing scenarios. A novel reinforcement learning approach is proposed for optimizing UAV task scheduling and resource allocation. We conducted extensive simulations to validate the proposed algorithm’s superior performance in large-scale UAV-MEC scenarios. As the first author, I contributed to a paper (under review) and a patent application:
+  We introduced a composite user model to enhance system reliability by addressing the challenges of high mobility and heterogeneity in edge computing scenarios. A novel reinforcement learning approach is proposed for optimizing UAV task scheduling and resource allocation. We conducted extensive simulations to validate the proposed algorithm’s superior performance in large-scale UAV-MEC scenarios. As the first author, I contributed to a paper and a patent application:
   - **Publication**: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]*
   - **Patent**: *Method and Device for UAV-Assisted Offloading Strategy (Patent Application No. 2024109978530)*
 
