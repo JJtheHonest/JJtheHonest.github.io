@@ -47,7 +47,7 @@ Projects
   As a core member, I led the key aspects of the project, including:
   - Implemented classical swarm models like Boids, Vicsek, and Couzin using Python.
   - Extended models to 3D space and introduced opposing swarms, designing interaction mechanisms to study their dynamic behaviors.
-  - Developed an interactive simulation platform, CouzinSim, featuring customizable parameters and clear visualizations. The tool serves both research and educational purposes and is available open-source on [GitHub](https://github.com/QZGao/couzin-sim).
+  - Developed an interactive simulation platform, CouzinSim, featuring customizable parameters and clear visualizations. The tool serves both research and educational purposes and is available on [GitHub](https://github.com/QZGao/couzin-sim).
 
 - **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks *(Participate as an undergraduate RA, 2023–Present)*** \
   ***(National Class Project)** (Supported by the Young Scientists Fund of the National Natural Science Foundation of China)*
