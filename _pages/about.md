@@ -11,17 +11,20 @@ Jiajie Yin is an undergraduate student at Beijing Normal University majoring in 
 
 *My research interests include **multi-agent systems**, **deep learning**, **reinforcement learning**, and **edge computing**, with a focus on applying AI to swarm intelligence and IoT.*
 
-**<font color=Blue>I am looking for opportunities to pursue a master's degree in these areas and to collaborate on research projects. Please contact me if you are interested in my profile!</font>**
+**<font color=Blue>I am looking for opportunities to collaborate on research projects. Please contact me if you are interested in my profile!</font>**
 
 Education and Experience
 ======
 - **Zhengzhou Foreign Language School** （Sep 2018 - Jun 2021）
-- **Beijing Normal University**  (Sep 2021 - Present) 
+- **Beijing Normal University (BNU)**  (Sep 2021 - Present) 
   - B.Sc. in Data Science and Big Data Technology  
   - Relevant Coursework: Mathematics Analysis, Probability and Statistics, Database Systems, Deep Learning, Data Mining
-
+- **Huazhong University of Science and Technology (HUST)**  (Expected to start since Sep 2025)
+  - M.Sc. in Computer Science and Technology, supervised by Prof. [Yixue Hao](http://faculty.hust.edu.cn/haoyixue1/zh_CN/index.htm)
+  - Expected Research Focus: Multi-agent Systems and Reinforcement Learning
 - **RA in Institute of AI and Future Networks** , Beijing Normal University (Sep 2023 – Present)
   - Conducted research on deep reinforcement learning and its applications in areas such as edge computing and agents, under the guidance of Prof. [Zhiqing Tang](https://www.zhiqingtang.com/), Prof. [JianXiong Guo](https://staff.uic.edu.cn/jianxiongguo/cn) and Prof. [Weijia Jia](https://ai.bnu.edu.cn/xygk/szdw/zgj/1326a6d1a5b14556a2b3bbb0faa6c46d.htm).
+
 
 Skills
 ======
