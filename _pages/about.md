@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiajie Yin is an undergraduate student at Beijing Normal University majoring in Data Science and Big Data Technology. With a strong foundation in mathematics, programming, and data analysis, he has excelled academically. Jiajie has participated in several research projects, including developing interactive simulation platforms for swarm behavior and optimizing resource allocation in mobile edge computing with UAV systems. Supervised by Prof. [Zhiqing Tang](https://www.zhiqingtang.com/), their research has led to published work in top-tier journals (IEEE IoT-Journal, JCR-Q1) and a national patent.
+Jiajie Yin is an undergraduate student at Beijing Normal University majoring in Data Science and Big Data Technology. With a strong foundation in mathematics, programming, and data analysis, he has excelled academically. Jiajie has participated in several research projects, including developing interactive simulation platforms for swarm behavior and optimizing resource allocation in mobile edge computing with UAV systems. Supervised by Prof. [Zhiqing Tang](https://www.zhiqingtang.com/), their research has led to published work in top-tier journals (IEEE IoT-Journal, JCR-Q1) and a national patent. Recently, Jiajie has been recommended for admission and accepted into Huazhong University of Science and Technology to pursue a master’s degree in Computer Science and Technology.
 
 *My research interests include **multi-agent systems**, **decision intelligence**, **deep reinforcement learning**, and **edge computing**, with a focus on applying AI to swarm intelligence and IoT.*
 
