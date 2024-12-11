@@ -63,6 +63,7 @@ Projects
 Honors
 ======
 - **Second Prize of “Jingshi” Undergraduate Scholarship**, Beijing Normal University
+- **Grand Prize of Academic Scholarship**, Beijing Normal University
 - **Honourable Mention**, the Mathematical Contest in Modeling (MCM)
 - **Second Prize** *(Guangdong Division)*, the 15th Lanqiao Cup (Python)
 - **First Prize** *(Ranked #1)*, Beijing Normal University “Jingshi Cup” Science and Technology Competition
