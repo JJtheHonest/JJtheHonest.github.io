@@ -68,5 +68,5 @@ Honors
 - **Second Prize** *(Guangdong Division)*, the 15th Lanqiao Cup (Python)
 - **First Prize** *(Ranked #1)*, Beijing Normal University “Jingshi Cup” Science and Technology Competition
 - **Outstanding Officer of 2021 - 2022**, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province
-- **Refiner of the Quarter**, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier.:pray:
+- **Refiner of the Quarter**, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier.🙏
   
