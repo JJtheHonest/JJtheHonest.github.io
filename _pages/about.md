@@ -58,7 +58,7 @@ Projects
   This research project was supervised by Prof. [Zhiqing Tang](https://www.zhiqingtang.com/).\
   We introduced a composite user model to enhance system reliability by addressing the challenges of high mobility and heterogeneity in edge computing scenarios. A novel reinforcement learning approach is proposed for optimizing UAV task scheduling and resource allocation. We conducted extensive simulations to validate the proposed algorithm’s superior performance in large-scale UAV-MEC scenarios. As the first author, I contributed to a paper and a patent application:
   - **Publication**: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]*
-  - **Patent**: *Method and Device for UAV-Assisted Offloading Strategy (Patent Application No. 2024109978530)*
+  - **Patent**: *Method and Device for UAV-Assisted Offloading Strategy (Authorized, Patent No. ZL 2024 1 0997853.0)*
 
 Honors
 ======
