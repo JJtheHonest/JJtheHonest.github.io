@@ -19,11 +19,11 @@ Education and Experience
 - **Beijing Normal University (BNU)**  (Sep 2021 - Present) 
   - B.Sc. in Data Science and Big Data Technology  
   - Relevant Coursework: Mathematics Analysis, Probability and Statistics, Database Systems, Deep Learning, Data Mining
+- **RA in Institute of AI and Future Networks** , Beijing Normal University (Sep 2023 – Jun 2025)
+  - Conducted research on deep reinforcement learning and its applications in areas such as edge computing and agents, under the guidance of Prof. [Zhiqing Tang](https://www.zhiqingtang.com/), Prof. [JianXiong Guo](https://staff.uic.edu.cn/jianxiongguo/cn) and Prof. [Weijia Jia](https://ai.bnu.edu.cn/xygk/szdw/zgj/1326a6d1a5b14556a2b3bbb0faa6c46d.htm).
 - **Huazhong University of Science and Technology (HUST)**  (Expected to start since Sep 2025)
   - M.Sc. in Computer Science and Technology, supervised by Prof. [Yixue Hao](http://faculty.hust.edu.cn/haoyixue1/zh_CN/index.htm)
   - Expected Research Focus: Multi-agent Systems and Reinforcement Learning
-- **RA in Institute of AI and Future Networks** , Beijing Normal University (Sep 2023 – Present)
-  - Conducted research on deep reinforcement learning and its applications in areas such as edge computing and agents, under the guidance of Prof. [Zhiqing Tang](https://www.zhiqingtang.com/), Prof. [JianXiong Guo](https://staff.uic.edu.cn/jianxiongguo/cn) and Prof. [Weijia Jia](https://ai.bnu.edu.cn/xygk/szdw/zgj/1326a6d1a5b14556a2b3bbb0faa6c46d.htm).
 
 
 Skills
@@ -64,6 +64,7 @@ Honors
 ======
 - **Second Prize of “Jingshi” Undergraduate Scholarship**, Beijing Normal University
 - **Grand Prize of Academic Research Scholarship**, Beijing Normal University
+- **Outstanding Undergraduate of the Faculty of Arts and Sciences**, Beijing Normal University
 - **Honourable Mention**, the Mathematical Contest in Modeling (MCM)
 - **Second Prize** *(Guangdong Division)*, the 15th Lanqiao Cup (Python)
 - **First Prize** *(Ranked #1)*, Beijing Normal University “Jingshi Cup” Science and Technology Competition
