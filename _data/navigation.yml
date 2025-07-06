@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: https://jjthehonest.github.io/files/尹家杰个人简历.pdf
+  # - title: "CV"
+  #   url: https://jjthehonest.github.io/files/尹家杰个人简历.pdf
     
   # - title: "Guide"
   #   url: /markdown/
