@@ -15,7 +15,7 @@ Jiajie Yin is a master's student at Huazhong University of Science and Technolog
 
 Education and Experience
 ======
-- **Zhengzhou Foreign Language School** （Sep 2018 - Jun 2021）
+- **Zhengzhou Foreign Language School**  (Sep 2018 - Jun 2021)
 - **Beijing Normal University (BNU)**  (Sep 2021 - Jun 2025) 
   - B.Sc. in Data Science and Big Data Technology  
   - Relevant Coursework: Mathematics Analysis, Probability and Statistics, Database Systems, Deep Learning, Data Mining
