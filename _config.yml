@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Guogai.png"
-  name             : "Jiajie Yin（尹家杰）"
+  avatar           : "portrait.png"
+  name             : "Yin Jiajie（尹家杰）"
   # pronouns         : "he/him"  
-  bio              : "The picture shows a little stray cat living near my dormitory. Its name is Guogai (锅盖)."
+  bio              : "Πάντα ῥεῖ. \n Change is the only constant."
   location         : "Wuhan, China"
   employer         : "HUST"
   uri              : # URL
