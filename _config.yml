@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait.png"
+  avatar           : "portrait.jpg"
   name             : "Yin Jiajie（尹家杰）"
   # pronouns         : "he/him"  
   bio              : "Πάντα ῥεῖ. \n Change is the only constant."
