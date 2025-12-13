@@ -80,26 +80,19 @@ Skills
   
 Honors & Awards
 ======
-<h2>🎓 Scholarships &amp; Academic Honors</h2>
-<ul>
-  <li><strong>First-Class Academic Scholarship</strong>, HUST, 2025</li>
-  <li><strong>Grand Prize of Academic Research Scholarship</strong>, BNU, 2025</li>
-  <li><strong>Outstanding Undergraduate of the Faculty of Arts and Sciences</strong>, BNU, 2025</li>
-  <li><strong>Second Prize of “Jingshi” Undergraduate Scholarship</strong>, BNU, 2023–2024</li>
-</ul>
+- **Scholarships & Academic Honors**
+  - **First-Class Academic Scholarship**, HUST, 2025
+  - **Grand Prize of Academic Research Scholarship**, BNU, 2025
+  - **Outstanding Undergraduate of the Faculty of Arts and Sciences**, BNU, 2025
+  - **Second Prize of “Jingshi” Undergraduate Scholarship**, BNU, 2023-2024
+- **Competitions**
+  - **Honourable Mention**, The Mathematical Contest in Modeling (MCM), 2024
+  - **Second Prize** *(Guangdong Division)*, The 15th Lanqiao Cup (Python), 2024
+  - **First Prize** *(Ranked #1)*, BNU “Jingshi Cup” Science and Technology Competition, 2024
+- **Leadership & Social Service**
+  - **Outstanding Officer (2021 - 2022)**, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province
+  - **Refiner of the Quarter**, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier.🙏
 
-<h2>🏆 Competitions</h2>
-<ul>
-  <li><strong>Honourable Mention</strong>, The Mathematical Contest in Modeling (MCM), 2024</li>
-  <li><strong>Second Prize</strong> (<em>Guangdong Division</em>), The 15th Lanqiao Cup (Python), 2024</li>
-  <li><strong>First Prize</strong> (<em>Ranked #1</em>), BNU “Jingshi Cup” Science and Technology Competition, 2024</li>
-</ul>
-
-<h2>💼 Leadership &amp; Social Service</h2>
-<ul>
-  <li><strong>Outstanding Officer (2021–2022)</strong>, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province</li>
-  <li><strong>Refiner of the Quarter</strong>, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier. 🙏</li>
-</ul>
 
 Life & Interests
 ======
