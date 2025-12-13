@@ -31,7 +31,7 @@ News & Updates
 - **[Sep 2025]** 🎓 Officially enrolled at HUST and joined the **EPIC Lab**！
 - **[Jun 2025]** 🎓 Graduated from BNU with Honors! 
   
-Publicacion
+Publicacions
 ======
 1. **Personalized LLM Service Updating in Collaborative Edge-enable Vehicle Autonomous System** \
 Dongkun Huo, **Jiajie Yin**, Hongbo Liu, Yixue Hao\*, Rui Wang, Long Hu, Yijun Mo \
