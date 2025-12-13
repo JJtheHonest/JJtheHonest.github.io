@@ -11,7 +11,15 @@ Jiajie Yin is a Master's student in Computer Science and Technology at **Huazhon
 
 *My research interests include **multi-agent systems**, **reinforcement learning**, **decision intelligence**, and **edge computing**.*
 
-**<font color=Blue><b>📢 I am actively seeking <u>Algorithm Engineering Internships</u> (RL / DL). <br>With a solid foundation in Traditional RL & MAS and active exploration in RL for LLMs (e.g., RLHF), I am eager to contribute to real-world projects. Please contact me if you are interested in my profile!</b></font>**
+<div align="center" style="border: 2px solid #2196F3; background-color: #E3F2FD; padding: 15px; border-radius: 8px; margin: 20px 0;">
+    <h3 style="margin: 0; color: #0D47A1;">📢 Actively Seeking Algorithm Engineering Internships (RL / DL)</h3>
+    <p style="margin-top: 5px; margin-bottom: 0; color: #1565C0;">
+        Currently open for <b>Summer/Fall 2026</b> opportunities.<br>
+        Solid foundation in <b>Traditional RL & MAS</b> + Active exploration in <b>LLM Alignment (RLHF)</b>.<br>
+        👉 <a href="mailto:jjyinjiajie@gmail.com" style="font-weight:bold;">Contact Me</a> to discuss how I can contribute to your team! <br>
+        <font color="grey" size="3">Available for 3-6 months. Open to remote or onsite.</font>
+    </p>
+</div>
 
 Education and Experience
 ======
@@ -31,7 +39,7 @@ News & Updates
 - **[Sep 2025]** 🎓 Officially enrolled at HUST and joined the **EPIC Lab**！
 - **[Jun 2025]** 🎓 Graduated from BNU with Honors! 
   
-Publicacions
+Publications
 ======
 1. **Personalized LLM Service Updating in Collaborative Edge-enable Vehicle Autonomous System** \
 Dongkun Huo, **Jiajie Yin**, Hongbo Liu, Yixue Hao\*, Rui Wang, Long Hu, Yijun Mo \
@@ -45,53 +53,65 @@ Dongkun Huo, **Jiajie Yin**, Hongbo Liu, Yixue Hao\*, Rui Wang, Long Hu, Yijun M
 
 Selected Projects
 ======
-- **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks** *(Participate as an Undergraduate RA, 2023–2025)* \
-  *Advisor: Prof. [Zhiqing Tang](https://www.zhiqingtang.com/) | Supported by NSFC*
+- **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks** *(Participate as an Undergraduate RA, 2023–2025)* 
+  >*Advisor: Prof. [Zhiqing Tang](https://www.zhiqingtang.com/) | Supported by NSFC*
   - Proposed a composite user model for high mobility and heterogeneity edge scenarios.
   - Developed a QoS-aware RL algorithm for UAV task scheduling and resource allocation, significantly outperforming baselines in large-scale simulations.
-  - **Output:** 
-    - Publication: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]*
-    - Patent: *Method and Device for UAV-Assisted Offloading Strategy (Authorized, Patent No. ZL 2024 1 0997853.0)*
-- **The Study on Mechanisms and Patterns of Two Opposing Swarm Movements** *(National Class Undergraduate Training Programs for Innovation and Entrepreneurship, 2022–2023)* \
-    *Advisor: Prof. [Guiyuan Shi](https://fas.bnu.edu.cn/jyjg/xsgk/xtkxx1/xsszxtkx/xtkxzj/b90f27925dd8422a99895554a88884f2.htm) | Supported by IACCS, BNU*   
+  >Publication: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]*
+  
+  >Patent: *Method and Device for UAV-Assisted Offloading Strategy (Authorized, Patent No. ZL 2024 1 0997853.0)*
+- **The Study on Mechanisms and Patterns of Two Opposing Swarm Movements** *(National Class Undergraduate Training Programs for Innovation and Entrepreneurship, 2022–2023)* 
+   > *Advisor: Prof. [Guiyuan Shi](https://fas.bnu.edu.cn/jyjg/xsgk/xtkxx1/xsszxtkx/xtkxzj/b90f27925dd8422a99895554a88884f2.htm) | Supported by IACCS, BNU*   
   - Implemented classical swarm models like Boids, Vicsek, and Couzin using Python.
   - Extended models to 3D space and introduced opposing swarms, designing interaction mechanisms to study their dynamic behaviors.
-  - Developed an interactive simulation platform for complex system research, *CouzinSim*, featuring customizable parameters and clear visualizations. *[Code available on [GitHub](https://github.com/QZGao/couzin-sim)]*
+  - Developed an interactive simulation platform for complex system research, *CouzinSim*, featuring customizable parameters and clear visualizations. 
+  >🔗 Code: Available on [GitHub](https://github.com/QZGao/couzin-sim)
 
 Skills
 ======
 - **Reinforcement Learning**: 
-  - **Algorithms**: Proficient in Value-based (DQN, Double DQN) and Policy-based (PPO, A2C, SAC) methods. Extensive experience in Multi-Agent RL (QMIX, MADDPG, MAPPO).
+  - **Algorithms**: ![RL](https://img.shields.io/badge/RL-DQN%20%7C%20PPO%20%7C%20SAC-3776AB?style=flat-square) ![MARL](https://img.shields.io/badge/MARL-QMIX%20%7C%20MAPPO%20%7C%20MADDPG-blueviolet?style=flat-square).
   - **Frameworks**: Gymnasium, PettingZoo, PyMARL Series, Ray/RLlib.
   - Experienced in building simulation environments.
 - **Deep Learning & LLMs**: 
-  - **Core**: PyTorch (Advanced), TensorFlow.
-  - **LLM Alignment**: Actively learning **RLHF** (RL for LLMs), DPO, and Parameter-Efficient Fine-Tuning (LoRA).
+  - **DL Tech Stack**: ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF](https://img.shields.io/badge/TensorFlow-Beginner-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  - **LLM Alignment**: Actively learning **RLHF** (RL for LLMs) and Parameter-Efficient Fine-Tuning (LoRA).
 - **Programming & Dev**: 
-  - **Languages**: Python (Advanced), Java, C/C++, SQL.
-  - **Tools**: Linux/Shell, Docker, Git, LaTeX. 
+    
+    ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Shell-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Tools-Git%20-F05032?style=flat-square&logo=git&logoColor=white)
 
+  
 Honors & Awards
 ======
-- **Scholarships & Academic Honors**
-  - **First-Class Academic Scholarship**, Huazhong University of Science and Technology
-  - **Grand Prize of Academic Research Scholarship**, Beijing Normal University
-  - **Outstanding Undergraduate of the Faculty of Arts and Sciences**, Beijing Normal University
-  - **Second Prize of “Jingshi” Undergraduate Scholarship**, Beijing Normal University
+>### 🎓 Scholarships & Academic Honors
+  - **First-Class Academic Scholarship**, HUST, 2025
+  - **Grand Prize of Academic Research Scholarship**, BNU, 2025
+  - **Outstanding Undergraduate of the Faculty of Arts and Sciences**, BNU, 2025
+  - **Second Prize of “Jingshi” Undergraduate Scholarship**, BNU, 2023-2024
 
-- **Competitions**
-  - **Honourable Mention**, The Mathematical Contest in Modeling (MCM)
-  - **Second Prize** *(Guangdong Division)*, The 15th Lanqiao Cup (Python)
-  - **First Prize** *(Ranked #1)*, Beijing Normal University “Jingshi Cup” Science and Technology Competition
+>### 🏆 Competitions
+  - **Honourable Mention**, The Mathematical Contest in Modeling (MCM), 2024
+  - **Second Prize** *(Guangdong Division)*, The 15th Lanqiao Cup (Python), 2024
+  - **First Prize** *(Ranked #1)*, BNU “Jingshi Cup” Science and Technology Competition, 2024
 
-- **Leadership & Social Service**
+>### 💼 Leadership & Social Service
   - **Outstanding Officer (2021 - 2022)**, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province
   - **Refiner of the Quarter**, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier.🙏
 
 Life & Interests
 ======
 *This is where the agent goes offline.*
-
-- **Martial Arts 🥊:** I am a huge fan of MMA and UFC. I practiced **Muay Thai** and **MMA**, and currently focus on **Boxing** training. Combining my passion with my profession, I have conducted innovative theoretical research on combat sports using machine learning (see my [paper](#publications)).
-- **Chess ♟️:** Inspired by the series *The Queen's Gambit*, I developed a strong interest in **Chess** and am currently learning the game. 
-- **Leisure:** Movies, TV shows, Pop Music, Video games, Reading, Hiking.
+<table style="border:none; margin-top: 10px;">
+  <tr>
+    <td width="50%" valign="top" style="border:none; padding-right: 10px;">
+        <h3 align="center" style="margin-top:0">🥊 Martial Arts & Science</h3>
+        <p>I am a huge fan of <strong>MMA and UFC</strong>. I practiced <strong>Muay Thai and MMA</strong>, and currently focus on <strong>Boxing</strong></p>
+        <p><em>"Fight with your brain."</em> I combined this passion with my profession, conducting innovative research on <a href="#publications">MMA outcome prediction using Machine Learning</a>.</p>
+    </td>
+    <td width="50%" valign="top" style="border:none; padding-left: 10px;">
+        <h3 align="center" style="margin-top:0">♟️ Strategy & Exploration</h3>
+        <p><strong>Chess & Logic:</strong> Inspired by <em>The Queen's Gambit</em> and AlphaZero, I developed a strong interest in <strong>Chess</strong> and am currently learning the game.</p>
+        <p><strong>Leisure:</strong> Movies, TV shows, Pop Music, Video games, Reading, Hiking...</p>
+    </td>
+  </tr>
+</table>
