@@ -53,19 +53,18 @@ Dongkun Huo, **Jiajie Yin**, Hongbo Liu, Yixue Hao\*, Rui Wang, Long Hu, Yijun M
 
 Selected Projects
 ======
-### **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks** *(Participate as an Undergraduate RA, 2023–2025)* 
-
+- **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks** *(Participate as an Undergraduate RA, 2023–2025)* 
 *Advisor: Prof. [Zhiqing Tang](https://www.zhiqingtang.com/) | Supported by NSFC*
   - Proposed a composite user model for high mobility and heterogeneity edge scenarios.
   - Developed a QoS-aware RL algorithm for UAV task scheduling and resource allocation, significantly outperforming baselines in large-scale simulations.
   >Publication: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]* \
   >Patent: *Method and Device for UAV-Assisted Offloading Strategy (Authorized, Patent No. ZL 2024 1 0997853.0)*
-### **The Study on Mechanisms and Patterns of Two Opposing Swarm Movements** *(National Class Undergraduate Training Programs for Innovation and Entrepreneurship, 2022–2023)* 
+
+- **The Study on Mechanisms and Patterns of Two Opposing Swarm Movements** *(National Class Undergraduate Training Programs for Innovation and Entrepreneurship, 2022–2023)* 
 *Advisor: Prof. [Guiyuan Shi](https://fas.bnu.edu.cn/jyjg/xsgk/xtkxx1/xsszxtkx/xtkxzj/b90f27925dd8422a99895554a88884f2.htm) | Supported by IACCS, BNU*   
   - Implemented classical swarm models like Boids, Vicsek, and Couzin using Python.
   - Extended models to 3D space and introduced opposing swarms, designing interaction mechanisms to study their dynamic behaviors.
-  - Developed an interactive simulation platform for complex system research, *CouzinSim*, featuring customizable parameters and clear visualizations. 
-  >🔗 Code: Available on [GitHub](https://github.com/QZGao/couzin-sim)
+  - Developed an interactive simulation platform for complex system research, *CouzinSim*, featuring customizable parameters and clear visualizations. [🔗 **Code**: Available on [GitHub](https://github.com/QZGao/couzin-sim)]
 
 Skills
 ======
@@ -82,18 +81,16 @@ Skills
   
 Honors & Awards
 ======
-### 🎓 Scholarships & Academic Honors
+## 🎓 Scholarships & Academic Honors
   - **First-Class Academic Scholarship**, HUST, 2025
   - **Grand Prize of Academic Research Scholarship**, BNU, 2025
   - **Outstanding Undergraduate of the Faculty of Arts and Sciences**, BNU, 2025
   - **Second Prize of “Jingshi” Undergraduate Scholarship**, BNU, 2023-2024
-
-### 🏆 Competitions
+## 🏆 Competitions
   - **Honourable Mention**, The Mathematical Contest in Modeling (MCM), 2024
   - **Second Prize** *(Guangdong Division)*, The 15th Lanqiao Cup (Python), 2024
   - **First Prize** *(Ranked #1)*, BNU “Jingshi Cup” Science and Technology Competition, 2024
-
-### 💼 Leadership & Social Service
+## 💼 Leadership & Social Service
   - **Outstanding Officer (2021 - 2022)**, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province
   - **Refiner of the Quarter**, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier.🙏
 
