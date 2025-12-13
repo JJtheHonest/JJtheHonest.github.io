@@ -80,18 +80,19 @@ Skills
   
 Honors & Awards
 ======
-- **Scholarships & Academic Honors**
+- **🎓 Scholarships & Academic Honors**
   - **First-Class Academic Scholarship**, HUST, 2025
   - **Grand Prize of Academic Research Scholarship**, BNU, 2025
   - **Outstanding Undergraduate of the Faculty of Arts and Sciences**, BNU, 2025
   - **Second Prize of “Jingshi” Undergraduate Scholarship**, BNU, 2023-2024
-- **Competitions**
+- **🏆 Competitions**
   - **Honourable Mention**, The Mathematical Contest in Modeling (MCM), 2024
   - **Second Prize** *(Guangdong Division)*, The 15th Lanqiao Cup (Python), 2024
   - **First Prize** *(Ranked #1)*, BNU “Jingshi Cup” Science and Technology Competition, 2024
-- **Leadership & Social Service**
+- **💼 Leadership & Social Service**
   - **Outstanding Officer (2021 - 2022)**, Beijing Normal University Zhuhai Education Development Foundation of Guangdong Province
   - **Refiner of the Quarter**, Lumon Industries, MDR Department, Q2 2023, awarded with a Waffle Party. Praise Kier.🙏
+
 
 
 Life & Interests
