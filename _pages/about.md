@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Jiajie Yin is a Master's student in Computer Science and Technology at **Huazhong University of Science and Technology (HUST)**, supervised by Prof. [Yixue Hao](http://faculty.hust.edu.cn/haoyixue1/zh_CN/index.htm). He received his B.Sc. in Data Science from **Beijing Normal University (BNU)** in 2025. Jiajie demonstrated strong research capabilities early in his career, publishing works in top-tier journals such as *IEEE IoT-J* and *IEEE TCE*. He is passionate about designing decision intelligence algorithms to solve complex problems in real-world systems.
 
 *My research interests include **multi-agent systems**, **reinforcement learning**, **decision intelligence**, and **edge computing**.*
@@ -56,20 +47,16 @@ Selected Projects
 ======
 - **Online Container Scheduling and Resource Optimization for Digital Twin Edge Networks** *(Participate as an Undergraduate RA, 2023–2025)* \
   *Advisor: Prof. [Zhiqing Tang](https://www.zhiqingtang.com/) | Supported by NSFC*
-
   - Proposed a composite user model for high mobility and heterogeneity edge scenarios.
   - Developed a QoS-aware RL algorithm for UAV task scheduling and resource allocation, significantly outperforming baselines in large-scale simulations.
   - **Output:** 
     - Publication: *QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing (IEEE IoT-Journal, JCR-Q1) [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)]*
     - Patent: *Method and Device for UAV-Assisted Offloading Strategy (Authorized, Patent No. ZL 2024 1 0997853.0)*
-  
 - **The Study on Mechanisms and Patterns of Two Opposing Swarm Movements** *(National Class Undergraduate Training Programs for Innovation and Entrepreneurship, 2022–2023)* \
     *Advisor: Prof. [Guiyuan Shi](https://fas.bnu.edu.cn/jyjg/xsgk/xtkxx1/xsszxtkx/xtkxzj/b90f27925dd8422a99895554a88884f2.htm) | Supported by IACCS, BNU*   
   - Implemented classical swarm models like Boids, Vicsek, and Couzin using Python.
   - Extended models to 3D space and introduced opposing swarms, designing interaction mechanisms to study their dynamic behaviors.
   - Developed an interactive simulation platform for complex system research, *CouzinSim*, featuring customizable parameters and clear visualizations. *[Code available on [GitHub](https://github.com/QZGao/couzin-sim)]*
-
-
 
 Skills
 ======
@@ -107,4 +94,4 @@ Life & Interests
 
 - **Martial Arts 🥊:** I am a huge fan of MMA and UFC. I practiced **Muay Thai** and **MMA**, and currently focus on **Boxing** training. Combining my passion with my profession, I have conducted innovative theoretical research on combat sports using machine learning (see my [paper](#publications)).
 - **Chess ♟️:** Inspired by the series *The Queen's Gambit*, I developed a strong interest in **Chess** and am currently learning the game. 
-- **Leisure:** Movies, TV shows, Pop Music, Reading, Hiking.
+- **Leisure:** Movies, TV shows, Pop Music, Video games, Reading, Hiking.
