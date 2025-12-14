@@ -41,15 +41,15 @@ News & Updates
   
 Publications
 ======
-1. **Personalized LLM Service Updating in Collaborative Edge-enable Vehicle Autonomous System** \
+1. **[TCE'25]** **Personalized LLM Service Updating in Collaborative Edge-enable Vehicle Autonomous System** \
 Dongkun Huo, **Jiajie Yin**, Hongbo Liu, Yixue Hao\*, Rui Wang, Long Hu, Yijun Mo \
-*IEEE Transactions on Consumer Electronics (TCE)*, Early Access. (JCR-Q1) [DOI: 10.1109/TCE.2025.3644688]
-1. **QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing** \
+*IEEE Transactions on Consumer Electronics*, Early Access. (JCR-Q1) [DOI: 10.1109/TCE.2025.3644688]
+2. **[IoT-J'24]** **QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing** \
 **Jiajie Yin**, Zhiqing Tang\*, Jiong Lou, Jianxiong Guo, Hui Cai, Xiaoming Wu, Tian Wang, Weijia Jia \
-*IEEE Internet of Things Journal (IoT-J)*, 2024, 11(24): 40588-40602. (JCR-Q1) [[DOI](https://ieeexplore.ieee.org/document/10660310)] [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)] 
-1. **Data-Driven MMA Outcome Prediction Enhanced by Fighter Styles: A Machine Learning Approach** \
+*IEEE Internet of Things Journal*, 2024, 11(24): 40588-40602. (JCR-Q1) [[DOI](https://ieeexplore.ieee.org/document/10660310)] [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)] 
+3. **[MLISE'24]** **Data-Driven MMA Outcome Prediction Enhanced by Fighter Styles: A Machine Learning Approach** \
 **Jiajie Yin\*** \
-*2024 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)*. IEEE, 2024: 346-351. (EI) [[DOI](https://ieeexplore.ieee.org/abstract/document/10674447)] [[PDF](https://jjthehonest.github.io/files/MLISE2024.pdf)]
+*2024 4th International Conference on Machine Learning and Intelligent Systems Engineering*. IEEE, 2024: 346-351. (EI) [[DOI](https://ieeexplore.ieee.org/abstract/document/10674447)] [[PDF](https://jjthehonest.github.io/files/MLISE2024.pdf)]
 
 Selected Projects
 ======
@@ -72,10 +72,11 @@ Skills
   - **Frameworks**: Gymnasium, PettingZoo, PyMARL Series, Ray/RLlib.
   - Experienced in building simulation environments.
 - **Deep Learning & LLMs**: 
-  - **DL Tech Stack**: ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF](https://img.shields.io/badge/TensorFlow-Beginner-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  - **DL Stack**: ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF](https://img.shields.io/badge/TensorFlow-Beginner-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   - **LLM Alignment**: Actively learning **RLHF** (RL for LLMs) and Parameter-Efficient Fine-Tuning (LoRA).
-- **Programming & Dev**: \
-    ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Shell-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Tools-Git%20-F05032?style=flat-square&logo=git&logoColor=white)
+- **Programming & Dev**:
+  - **Languages**: ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  - **Tools**: ![R](https://img.shields.io/badge/R-Data_Analysis-276DC3?style=flat-square&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-DB-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Shell-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-Control-F05032?style=flat-square&logo=git&logoColor=white)
 
   
 Honors & Awards
