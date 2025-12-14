@@ -72,7 +72,7 @@ Skills
   - **Frameworks**: Gymnasium, PettingZoo, PyMARL Series, Ray/RLlib.
   - Experienced in building simulation environments.
 - **Deep Learning & LLMs**: 
-  - **DL Stack**: ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF](https://img.shields.io/badge/TensorFlow-Beginner-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  - **DL Stack**: ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF](https://img.shields.io/badge/TensorFlow-Basics-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   - **LLM Alignment**: Actively learning **RLHF** (RL for LLMs) and Parameter-Efficient Fine-Tuning (LoRA).
 - **Programming & Dev**:
   - **Languages**: ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
