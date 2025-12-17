@@ -43,7 +43,7 @@ Publications
 ======
 1. **[TCE'25]** **Personalized LLM Service Updating in Collaborative Edge-enable Vehicle Autonomous System** \
 Dongkun Huo, **Jiajie Yin**, Hongbo Liu, Yixue Hao\*, Rui Wang, Long Hu, Yijun Mo \
-*IEEE Transactions on Consumer Electronics*, Early Access. (JCR-Q1) [DOI: 10.1109/TCE.2025.3644688]
+*IEEE Transactions on Consumer Electronics*, Early Access. (JCR-Q1) [[DOI](https://ieeexplore.ieee.org/document/11300844)] [[PDF](https://jjthehonest.github.io/files/TCE2025.pdf)]
 2. **[IoT-J'24]** **QoS-aware Energy-efficient Multi-UAV Offloading Ratio and Trajectory Control Algorithm in Mobile Edge Computing** \
 **Jiajie Yin**, Zhiqing Tang\*, Jiong Lou, Jianxiong Guo, Hui Cai, Xiaoming Wu, Tian Wang, Weijia Jia \
 *IEEE Internet of Things Journal*, 2024, 11(24): 40588-40602. (JCR-Q1) [[DOI](https://ieeexplore.ieee.org/document/10660310)] [[PDF](https://jjthehonest.github.io/files/IoT-J2024.pdf)] 
