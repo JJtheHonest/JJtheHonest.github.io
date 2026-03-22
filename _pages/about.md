@@ -103,7 +103,7 @@ Life & Interests
   <tr>
     <td width="50%" valign="top" style="border:none; padding-right: 10px;">
         <h3 align="center" style="margin-top:0">🥊 Martial Arts & Science</h3>
-        <p>I am a huge fan of <strong>MMA and UFC</strong>. I practiced <strong>Muay Thai and MMA</strong>, and currently focus on <strong>Boxing</strong></p>
+        <p>I am a huge fan of <strong>Martial Arts</strong>. I practiced <strong>Muay Thai and MMA</strong>, and currently focus on <strong>Boxing</strong></p>
         <p><em>"Fight with your brain."</em> I combined this passion with my profession, conducting innovative research on <a href="#publications">MMA outcome prediction using Machine Learning</a>.</p>
     </td>
     <td width="50%" valign="top" style="border:none; padding-left: 10px;">
