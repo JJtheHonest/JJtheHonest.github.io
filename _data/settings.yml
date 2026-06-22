@@ -1,0 +1,26 @@
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+google-ID: 'G-GC83VXK301'
+
+menu:
+- {name: 'Home', url: ''}
+- {name: 'Writing', url: 'writing.html'}
+- {name: 'Publications', url: 'publications.html'}
+
+social:
+- {icon: 'envelope',      link: 'mailto:jjyinjiajie@gmail.com'}
+- {icon: 'github',        link: 'https://github.com/JJtheHonest'}
+- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?hl=zh-CN&user=h1UB1FsAAAAJ'}
+- {icon: 'rss-square',    link: '/feed.xml'}
+
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
