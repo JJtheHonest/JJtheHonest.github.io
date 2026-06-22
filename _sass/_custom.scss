@@ -13,7 +13,7 @@ blockquote p {
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid #eee;
 }
@@ -23,5 +23,112 @@ h3 {
 }
 
 ul, ol {
-  line-height: 1.75;
+  line-height: 1.8;
+  padding-left: 1.2em;
+}
+
+ul ul, ol ul, ul ol, ol ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+article > ul > li > strong:first-child,
+article > ul > li > ul > li > strong:first-child {
+  color: #333;
+}
+
+article > ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+article > ul > li {
+  padding-left: 1.2em;
+  position: relative;
+}
+
+article > ul > li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #2196F3;
+  font-weight: bold;
+}
+
+article > ul > li > ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+article > ul > li > ul > li {
+  padding-left: 1.2em;
+  position: relative;
+}
+
+article > ul > li > ul > li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  color: #999;
+}
+
+article > ol {
+  padding-left: 1.5em;
+}
+
+article > ol > li {
+  margin-bottom: 0.8em;
+}
+
+.pub-compact {
+  list-style: none;
+  padding-left: 0;
+}
+
+.pub-compact li {
+  margin-bottom: 0.5em;
+  padding-left: 0;
+}
+
+.pub-compact li::before {
+  display: none;
+}
+
+.pub-tag {
+  display: inline-block;
+  background: #e8f4fd;
+  color: #1565C0;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 0.1em 0.5em;
+  border-radius: 3px;
+  margin-right: 0.3em;
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
+.pub-venue {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.pub-links a {
+  font-size: 0.85rem;
+  margin-right: 0.5em;
+}
+
+.section-link {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.section-link a {
+  color: #666;
 }
