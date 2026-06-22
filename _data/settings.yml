@@ -6,8 +6,10 @@ google-ID: 'G-GC83VXK301'
 
 menu:
 - {name: 'Home', url: ''}
-- {name: 'Writing', url: 'writing.html'}
 - {name: 'Publications', url: 'publications.html'}
+- {name: 'Projects', url: 'projects.html'}
+- {name: 'CV', url: 'cv.html'}
+- {name: 'Writing', url: 'writing.html'}
 
 social:
 - {icon: 'envelope',      link: 'mailto:jjyinjiajie@gmail.com'}

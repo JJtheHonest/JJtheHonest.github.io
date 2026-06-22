@@ -13,7 +13,7 @@ blockquote p {
 }
 
 h2 {
-  margin-top: 2.5rem;
+  margin-top: 2rem;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid #eee;
 }
@@ -23,26 +23,21 @@ h3 {
 }
 
 ul, ol {
-  line-height: 1.8;
+  line-height: 1.6;
   padding-left: 1.2em;
 }
 
 ul ul, ol ul, ul ol, ol ol {
-  margin-top: 0.3em;
-  margin-bottom: 0.3em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 li {
-  margin-bottom: 0.4em;
+  margin-bottom: 0.25em;
 }
 
 li:last-child {
   margin-bottom: 0;
-}
-
-article > ul > li > strong:first-child,
-article > ul > li > ul > li > strong:first-child {
-  color: #333;
 }
 
 article > ul {
@@ -85,7 +80,7 @@ article > ol {
 }
 
 article > ol > li {
-  margin-bottom: 0.8em;
+  margin-bottom: 0.6em;
 }
 
 .pub-compact {
@@ -94,7 +89,7 @@ article > ol > li {
 }
 
 .pub-compact li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.4em;
   padding-left: 0;
 }
 
