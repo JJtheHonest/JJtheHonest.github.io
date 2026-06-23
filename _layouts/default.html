@@ -14,7 +14,7 @@
         var toggle = document.getElementById('darkToggle');
         var body = document.body;
         var stored = localStorage.getItem('darkMode');
-        if (stored === 'true') {
+        if (stored !== 'false') {
           body.classList.add('dark-mode');
           if (toggle) toggle.textContent = '☀️';
         }

@@ -128,25 +128,47 @@ article > ol > li {
   color: #666;
 }
 
+.portrait-container {
+  float: left;
+  width: 140px;
+  margin-top: 6px;
+  margin-right: 24px;
+  margin-bottom: 12px;
+  flex-shrink: 0;
+}
+
 .portrait {
-    float: left;
-    width: 140px;
-    margin-top: 12px;
-    margin-right: 24px;
-    margin-bottom: 12px;
-    border-radius: 0;
+  width: 100%;
+  border-radius: 0;
+  display: block;
+}
+
+.light-portrait {
+  display: block;
+}
+
+.dark-portrait {
+  display: none;
+}
+
+body.dark-mode .light-portrait {
+  display: none;
+}
+
+body.dark-mode .dark-portrait {
+  display: block;
 }
 
 .bio {
-    text-align: justify;
+  text-align: justify;
 }
 
 @media (max-width: 30em) {
-    .portrait {
-        width: 120px;
-        margin-right: 12px;
-        margin-bottom: 8px;
-    }
+  .portrait-container {
+    width: 120px;
+    margin-right: 12px;
+    margin-bottom: 8px;
+  }
 }
 
 .dark-toggle {
