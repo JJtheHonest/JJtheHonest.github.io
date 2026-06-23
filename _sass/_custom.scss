@@ -128,27 +128,25 @@ article > ol > li {
   color: #666;
 }
 
-.bio {
-  display: flex;
-  gap: 1.5em;
-  align-items: flex-start;
+.portrait {
+    float: left;
+    width: 140px;
+    margin-top: 12px;
+    margin-right: 24px;
+    margin-bottom: 12px;
+    border-radius: 0;
 }
 
-.portrait {
-  width: 120px;
-  border-radius: 0;
-  object-fit: cover;
+.bio {
+    text-align: justify;
 }
 
 @media (max-width: 30em) {
-  .bio {
-    flex-direction: column;
-    align-items: center;
-  }
-  .portrait {
-    width: 80px;
-    height: 80px;
-  }
+    .portrait {
+        width: 120px;
+        margin-right: 12px;
+        margin-bottom: 8px;
+    }
 }
 
 .dark-toggle {
