@@ -31,3 +31,10 @@ $codepen-color:        black;
 $rss-color:            #ff6600;
 
 @import "-sections-dir";
+
+/* Explanatory text in outie section: slightly smaller and gray */
+.outie-content .explain {
+	font-size: 0.9em;
+	color: $light-gray-color;
+	font-style: italic;
+}
