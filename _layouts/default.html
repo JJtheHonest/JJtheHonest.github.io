@@ -18,14 +18,13 @@
         var stored = localStorage.getItem('darkMode');
         if (stored !== 'false') {
           body.classList.add('dark-mode');
-          if (toggle) { document.getElementById('darkIcon').innerHTML = sunSvg; document.getElementById('darkLabel').textContent = 'Innie'; }
+          if (toggle) { document.getElementById('darkIcon').innerHTML = sunSvg; }
         }
         if (toggle) {
           toggle.addEventListener('click', function() {
             body.classList.toggle('dark-mode');
             var isDark = body.classList.contains('dark-mode');
             document.getElementById('darkIcon').innerHTML = isDark ? sunSvg : moonSvg;
-            document.getElementById('darkLabel').textContent = isDark ? 'Innie' : 'Outie';
             localStorage.setItem('darkMode', isDark);
           });
         }
