@@ -163,6 +163,30 @@ body.dark-mode .dark-portrait {
   text-align: justify;
 }
 
+.innie-content {
+  display: block;
+}
+
+.outie-content {
+  display: none;
+}
+
+body.dark-mode .innie-content {
+  display: block;
+}
+
+body.dark-mode .outie-content {
+  display: none;
+}
+
+body:not(.dark-mode) .innie-content {
+  display: none;
+}
+
+body:not(.dark-mode) .outie-content {
+  display: block;
+}
+
 @media (max-width: 30em) {
   .portrait-container {
     width: 120px;
