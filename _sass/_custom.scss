@@ -135,11 +135,9 @@ article > ol > li {
 }
 
 .portrait {
-  width: 90px;
-  height: 90px;
-  border-radius: 50%;
+  width: 120px;
+  border-radius: 0;
   object-fit: cover;
-  flex-shrink: 0;
 }
 
 @media (max-width: 30em) {
