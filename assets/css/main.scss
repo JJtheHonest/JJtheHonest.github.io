@@ -34,7 +34,12 @@ $rss-color:            #ff6600;
 
 /* Explanatory text in outie section: slightly smaller and gray */
 .outie-content .explain {
-	font-size: 0.9em;
+	font-size: 0.85em;
 	color: $light-gray-color;
 	font-style: italic;
+    line-height: 1.4;
+    margin-bottom: 0.4em;
+}
+.outie-content p {
+    margin-top: 0;
 }
