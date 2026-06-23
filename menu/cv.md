@@ -85,22 +85,3 @@ permalink: /cv
     </ul>
   </li>
 </ul>
-
-<h2>Life &amp; Interests</h2>
-
-<p><em>This is where the agent goes offline.</em></p>
-
-<table style="border:none; margin-top: 10px;">
-  <tr>
-    <td width="50%" valign="top" style="border:none; padding-right: 10px;">
-      <h3>🥊 Martial Arts &amp; Science</h3>
-      <p>I am a huge fan of <strong>Martial Arts</strong>. I practiced <strong>Muay Thai and MMA</strong>, and currently focus on <strong>Boxing</strong></p>
-      <p><em>"Fight with your brain."</em> I combined this passion with my profession, conducting innovative research on MMA outcome prediction using Machine Learning.</p>
-    </td>
-    <td width="50%" valign="top" style="border:none; padding-left: 10px;">
-      <h3>♟️ Strategy &amp; Exploration</h3>
-      <p><strong>Chess &amp; Logic:</strong> Inspired by <em>The Queen's Gambit</em> and AlphaZero, I developed a strong interest in <strong>Chess</strong> and am currently learning the game.</p>
-      <p><strong>Leisure:</strong> Movies, TV shows, Pop Music, Video games, Reading, Hiking...</p>
-    </td>
-  </tr>
-</table>
