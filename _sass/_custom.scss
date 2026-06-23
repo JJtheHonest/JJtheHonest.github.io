@@ -135,8 +135,8 @@ article > ol > li {
 }
 
 .portrait {
-  width: 120px;
-  height: 120px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
@@ -148,7 +148,21 @@ article > ol > li {
     align-items: center;
   }
   .portrait {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
   }
+}
+
+.dark-toggle {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 1rem;
+  padding: 0 0 0 8px;
+  color: $light-gray-color;
+  vertical-align: middle;
+}
+
+.dark-toggle:hover {
+  color: $dark-gray-color;
 }
