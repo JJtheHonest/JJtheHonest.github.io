@@ -175,10 +175,19 @@ body.dark-mode .dark-portrait {
   cursor: pointer;
   background: none;
   border: none;
-  font-size: 1rem;
+  font-size: 0.85rem;
   padding: 0 0 0 8px;
   color: $light-gray-color;
   vertical-align: middle;
+  font-family: $sans-serif-font-family;
+}
+
+.dark-toggle span {
+  vertical-align: middle;
+}
+
+.dark-toggle #darkLabel {
+  margin-left: 3px;
 }
 
 .dark-toggle:hover {
