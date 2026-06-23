@@ -127,3 +127,28 @@ article > ol > li {
 .section-link a {
   color: #666;
 }
+
+.bio {
+  display: flex;
+  gap: 1.5em;
+  align-items: flex-start;
+}
+
+.portrait {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+@media (max-width: 30em) {
+  .bio {
+    flex-direction: column;
+    align-items: center;
+  }
+  .portrait {
+    width: 100px;
+    height: 100px;
+  }
+}
